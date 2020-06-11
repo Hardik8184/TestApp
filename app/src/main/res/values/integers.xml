@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <integer name="shadow_radius">15</integer>
+  <integer name="shadow_x">2</integer>
+  <integer name="shadow_y">5</integer>
+
+</resources>
